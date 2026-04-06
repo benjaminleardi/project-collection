@@ -1,19 +1,27 @@
 Welcome! This repository contains a collection of my projects across data analysis, software engineering, and multi-language programming (C++, Kotlin, Python, and more). It serves as a showcase of my skills, learning, and problem-solving experience.
 
 📂 Project Categories
+
+
 Data Analysis
 Projects exploring datasets, statistics, and visualization.
-Example: Sales Analysis Lab – analyzing sales trends using Python and Pandas.
+
+
 Software Engineering
 Assignments and projects demonstrating coding best practices and algorithms.
-Example: Library Management System – implemented in C++ with object-oriented design.
+
+
 Multi-Language Experiments
 Small coding projects in Kotlin, C++, and other languages.
-Example: Kotlin Chat App – a simple client-server messaging application.
+
 
 🛠 Technologies & Tools
 Languages: C++, Kotlin, Python, JavaScript
+
+
 Libraries/Frameworks: Pandas, NumPy, Matplotlib, React (if applicable)
+
+
 Tools: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook
 
 📫 Connect With Me
