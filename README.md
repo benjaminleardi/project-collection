@@ -18,9 +18,8 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 ## 📂 Project Categories
 
 ### 📊 Data Analysis Projects
-- **[Sales Analysis Lab](DataAnalysis/SalesAnalysisLab)**  
-  Analyzed sales trends using Python, Pandas, and Matplotlib.  
-  ![Sales Chart](images/sales_chart.png)
+- **[Mosaic Project](DataAnalysis/project_mosaic)**  
+  Created a mosaic using Python, Pandas, and Matplotlib.  
 
 - **[Customer Segmentation](DataAnalysis/CustomerSegmentation)**  
   Clustered customers by behavior using Python and Scikit-learn.
