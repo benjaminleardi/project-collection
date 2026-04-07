@@ -18,7 +18,7 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 ## 📂 Project Categories
 
 ### 📊 Data Analysis Projects
-- **[Mosaic Project](DataAnalysis/project_mosaic/mosaic.ipynb)**  
+- **[Mosaic Project](/DataAnalysis/project_mosaic/)**  
   Created a mosaic using Python, Pandas, and Matplotlib.  
 
 - **[Customer Segmentation](DataAnalysis/CustomerSegmentation)**  
