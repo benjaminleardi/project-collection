@@ -22,8 +22,14 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 - ![Mosaic Preview](mosaic-web.jpg)
   Created a mosaic using Python, Pandas, and Matplotlib.  
 
-- **[Customer Segmentation](DataAnalysis/CustomerSegmentation)**  
-  Clustered customers by behavior using Python and Scikit-learn.
+- **[Electric Vehicle Analysis](////////////////)**  
+  Used different Python tools to analyze and predict data about electric cars.
+
+- **[Exploring Video Games](////////////////)**  
+  Looked at a dataset of video games to predict selling prices and other important variables.
+
+- **[Exploring Video Games](////////////////)**  
+  Used more advanced methods and techniques to explore the video game dataset again. 
 
 ---
 
