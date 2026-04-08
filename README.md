@@ -49,8 +49,8 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 ---
 
 ### 🌐 Multi-Language Projects
-- **[UIUC Student Help App](MP-Fall2025-kotlin-benjaminleardi-228593612)**  
-  Used a combination of my skills and a claude coding agent to create an android app to assist UIUC students on what buildings, classes, and organizations are available.
+- **[UIUC Student Help App](src)**  
+  Used a combination of my skills and a claude coding agent to create an android app to assist UIUC students on what buildings, classes, and organizations are available. (Too many files to upload so only uploaded parts.)
 ---
 
 ## 🚀 How to Explore
@@ -63,7 +63,7 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/yourprofile)  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
+- LinkedIn: [www.linkedin.com/in/benjamin-leardi-429600383](www.linkedin.com/in/benjamin-leardi-429600383)  
+- Email: [benjaminleardi@icloud.com/blear@illinois.edu](benjaminleardi@icloud.com/blear@illinois.edu)  
 
 ---
