@@ -22,13 +22,13 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 - ![Mosaic Preview](mosaic-web.jpg)
   Created a mosaic using Python, Pandas, and Matplotlib.  
 
-- **[Electric Vehicle Analysis](////////////////)**  
+- **[Electric Vehicle Analysis](project2.ipynb)**  
   Used different Python tools to analyze and predict data about electric cars.
 
-- **[Exploring Video Games](////////////////)**  
+- **[Exploring Video Games](project_01_template.ipynb)**  
   Looked at a dataset of video games to predict selling prices and other important variables.
 
-- **[Exploring Video Games](////////////////)**  
+- **[Exploring Video Games](project_02)**  
   Used more advanced methods and techniques to explore the video game dataset again. 
 
 ---
