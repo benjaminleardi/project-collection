@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Layout for EventActivity - Displays full details of a single event
+-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Event title -->
+        <TextView
+            android:id="@+id/eventTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:paddingBottom="8dp" />
+
+        <!-- Favorite toggle button -->
+        <ToggleButton
+            android:id="@+id/favoriteButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="Favorited"
+            android:textOff="Favorite"
+            android:paddingBottom="8dp" />
+
+        <!-- Date and time -->
+        <TextView
+            android:id="@+id/eventDateTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#666666"
+            android:paddingBottom="8dp" />
+
+        <!-- Location -->
+        <TextView
+            android:id="@+id/eventLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#666666"
+            android:paddingBottom="8dp" />
+
+        <!-- Virtual status -->
+        <TextView
+            android:id="@+id/eventVirtual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#666666"
+            android:paddingBottom="8dp" />
+
+        <!-- Description -->
+        <TextView
+            android:id="@+id/eventDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:paddingBottom="8dp" />
+
+        <!-- Categories -->
+        <TextView
+            android:id="@+id/eventCategories"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#666666"
+            android:paddingBottom="8dp" />
+
+        <!-- Source -->
+        <TextView
+            android:id="@+id/eventSource"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#666666"
+            android:paddingBottom="8dp" />
+
+        <!-- URL -->
+        <TextView
+            android:id="@+id/eventUrl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#0000EE"
+            android:autoLink="web"
+            android:paddingBottom="8dp" />
+    </LinearLayout>
+</ScrollView>
