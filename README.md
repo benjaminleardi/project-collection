@@ -34,16 +34,16 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 ---
 
 ### 💻 Software Engineering Projects
-- **[Hawaiian Words Machine Project](///////////////)**  
+- **[Hawaiian Words Machine Project](blear-2026a-hawaiian-words)**  
   This project involved developing a C++ program that generates phonetic pronunciation guides for Hawaiian words based on specific linguistic rules for vowels, consonants, and vowel groups. I utilized string manipulation, iterative parsing, and exception handling to validate inputs and implement complex logic for character-dependent pronunciations and proper hyphenation. 
 
-- **[DNA Forensics Machine Project](///////////////)**  
+- **[DNA Forensics Machine Project](blear-2026a-dna-forensics)**  
   This project involved building a DNA profiling system in C++ that identifies individuals based on Short Tandem Repeats (STRs) within a DNA sequence. I implemented a solution that parses CSV-based DNA databases, calculates the longest consecutive run of specific genetic markers, and matches those counts against a database of known individuals.
 
-- **[Mountain Paths Machine Project](///////////////)**
+- **[Mountain Paths Machine Project](blear-2026a-mountain-paths)**
   This project involved creating a C++ system to process topological elevation data and identify the "path of least resistance" across a mountain range. I implemented a series of classes to transform raw elevation integers into grayscale images and visualize optimal hiking routes using a greedy algorithm.
 
-- **[Naive Database Machine Project](///////////////)**
+- **[Naive Database Machine Project](blear-2026a-naive-database)**
   This project involved designing and implementing a relational database system from scratch in C++. The core focus was on dynamic memory management and heterogeneous data storage, allowing tables to store a mix of strings, integers, and doubles within the same row using low-level memory techniques.
 
 ---
