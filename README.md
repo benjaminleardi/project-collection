@@ -49,12 +49,8 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 ---
 
 ### 🌐 Multi-Language Projects
-- **[Kotlin Chat App](MultiLanguage/KotlinChatApp)**  
-  Client-server messaging app built in Kotlin.  
-
-- **[C++ Game Engine](MultiLanguage/CppGameEngine)**  
-  Simple 2D game engine demonstrating OOP, graphics handling, and design patterns.
-
+- **[UIUC Student Help App](MP-Fall2025-kotlin-benjaminleardi-228593612)**  
+  Used a combination of my skills and a claude coding agent to create an android app to assist UIUC students on what buildings, classes, and organizations are available.
 ---
 
 ## 🚀 How to Explore
