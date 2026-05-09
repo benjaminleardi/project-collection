@@ -1,0 +1,32 @@
+Data Scientist — Consumer Insights Team
+TechCorp Inc. | Chicago, IL | Full-Time
+
+About the Role
+We are looking for a Data Scientist to join our Consumer Insights team. You will build machine
+learning models, design A/B experiments, and surface actionable insights that drive product
+decisions for 10M+ users.
+
+Responsibilities
+- Design and deploy machine learning models end-to-end in a production environment
+- Conduct A/B testing and causal inference studies to measure feature impact
+- Build and maintain data pipelines using Python and Spark
+- Communicate findings to non-technical stakeholders via dashboards and presentations
+- Partner with product and engineering teams on data-driven roadmap decisions
+
+Required Qualifications
+- Bachelor's or Master's degree in Data Science, Statistics, Computer Science, or related field
+- 1+ years of hands-on experience with Python for data analysis and modeling
+- Proficiency in SQL for querying large datasets
+- Experience with machine learning frameworks (scikit-learn, XGBoost, or LightGBM)
+- Strong understanding of statistical concepts: hypothesis testing, regression, and probability
+- Experience with A/B testing and experimental design
+
+Preferred Qualifications
+- Experience with Spark or distributed computing frameworks
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Experience with MLflow or another experiment tracking tool
+- Knowledge of causal inference methods (diff-in-diff, propensity score matching)
+- Prior experience with LLM APIs or generative AI tools
+
+Technical Skills
+Python, SQL, scikit-learn, XGBoost, Spark, AWS, Tableau, Git, Docker, MLflow

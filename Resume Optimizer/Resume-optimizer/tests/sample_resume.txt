@@ -1,0 +1,35 @@
+Jane Smith
+jane.smith@email.com | linkedin.com/in/janesmith | Chicago, IL
+
+EDUCATION
+University of Illinois Urbana-Champaign
+B.S. Data Science, May 2025 | GPA: 3.8
+
+EXPERIENCE
+
+Data Science Intern — Acme Analytics, Summer 2024
+- Developed predictive churn model using Python and scikit-learn, improving retention by 12%
+- Built automated ETL pipeline in SQL that reduced manual reporting time by 6 hours per week
+- Created Tableau dashboards for executive team tracking KPIs across three product lines
+- Collaborated with cross-functional teams to deliver quarterly business insights
+
+Research Assistant — UIUC Statistics Department, Fall 2023
+- Analyzed large datasets using pandas and NumPy to support faculty research on climate patterns
+- Wrote reproducible analysis scripts in Python following PEP 8 coding standards
+- Presented findings to a group of 20 faculty members using PowerPoint and matplotlib visualizations
+
+PROJECTS
+
+Customer Segmentation Model (2024)
+- Clustered 50,000 customer records using K-Means and hierarchical clustering in scikit-learn
+- Reduced marketing spend by 8% by targeting high-value segments identified by the model
+
+Sentiment Analysis Pipeline (2023)
+- Built NLP pipeline using NLTK and spaCy to classify 100K product reviews with 87% accuracy
+- Deployed model as REST API using Flask on AWS EC2 instance
+
+SKILLS
+Languages: Python, SQL, R
+Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn, NLTK
+Tools: Tableau, Git, Jupyter, VS Code, Excel
+Cloud: AWS (EC2, S3), basic GCP
