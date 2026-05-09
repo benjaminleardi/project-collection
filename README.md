@@ -51,6 +51,9 @@ It serves as a showcase of my skills, learning, and problem-solving experience.
 ### 🌐 Multi-Language Projects
 - **[UIUC Student Help App](src)**  
   Used a combination of my skills and a claude coding agent to create an android app to assist UIUC students on what buildings, classes, and organizations are available. (Too many files to upload so only uploaded parts.)
+
+- **[Resume Optimizer](src)**  
+  Developed an AI-powered resume optimization platform using Python and data analysis tools to tailor resumes to specific job descriptions and improve ATS compatibility. Implemented resume parsing, keyword analysis, and AI-driven content optimization to       enhance recruiter visibility and job application effectiveness. Collaborated on full-stack development workflows involving document processing, automated analysis, and user-focused optimization features.
 ---
 
 ## 🚀 How to Explore
